@@ -12,3 +12,9 @@ O projeto está dividido em quatro notebooks, cada um correspondente a uma quest
 - `q4.ipynb` – Questão 4
 
 A pasta `utils/` contém funções auxiliares utilizadas nos notebooks.
+
+## Instale as dependências
+
+``` bash
+  pip install -r requirements.txt
+```
